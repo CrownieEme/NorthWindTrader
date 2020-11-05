@@ -57,5 +57,6 @@ NorthWindTraders is an e-commerce web app used for grocery shopping. It provides
 - Ability to register as a new user.
 - Ability to log in as a user,
 
-
+## What the App looks like
+![alt text](https://github.com/YawTakyi/NorthWindTrader/blob/YawTakyi-Upload-Picture-11-4-2020/Northwind_Traders.jpg)
 
