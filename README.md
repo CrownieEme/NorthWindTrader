@@ -48,7 +48,7 @@ NorthWindTraders is an e-commerce web app used for grocery shopping. It provides
 - Pictorial description of all products.
 - Prices of items.
 - Dropdown to select quantity.
-- Northwind trader logo
+- Northwind trader logo.
 
 ## Future Features
 - Ability to place an order by filling out customer form.
