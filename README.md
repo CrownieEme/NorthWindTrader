@@ -1,5 +1,5 @@
 # NorthWindTraders
-NorthWindTraders is an e-commerce web app used for grocery shopping. It provides a user the ability to view products in a categorized manner. The web app is written in C# for the backend, Javascript, HTML and CSS for the front end.  .
+NorthWindTraders is an e-commerce web app used for grocery shopping. It provides a user the ability to view products in a categorized manner. The web app is written in C# for the backend, Javascript, HTML and CSS for the front end.
 
 ## Adding Database
 1. Create Folder App_Data under solution.
