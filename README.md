@@ -11,8 +11,7 @@ NorthWindTraders is an e-commerce web app used for grocery shopping. It provides
 2. Replace source value with your Database server name. Mine is "DESKTOP-IKCQKHS\SQLEXPRESS;""
 3. Replace attachdbfilename with the location path of your .mdf file in file explorer. Mine is C:\Source\Repos\NorthWindTrader\NorhtWindTraders\App_Data\northwnd.mdf;)
 
- <add name="NWContext" connectionString="metadata=res://*/App_DAL.NorthwindModel.csdl|res://*/App_DAL.NorthwindModel.ssdl|res://*/App_DAL.NorthwindModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-IKCQKHS\SQLEXPRESS;attachdbfilename=C:\Source\Repos\NorthWindTrader\NorhtWindTraders\App_Data\northwnd.mdf;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
-
+> <add name="NWContext" >connectionString="metadata=res://*/App_DAL.NorthwindModel.csdl|res://*/App_DAL.NorthwindModel.ssdl|res://*/App_DAL.NorthwindModel.msl;provider=System.Data.SqlClient;provider >connection string=&quot;data source=DESKTOP-IKCQKHS\SQLEXPRESS;attachdbfilename=C:\Source\Repos\NorthWindTrader\NorhtWindTraders\App_Data\northwnd.mdf;integrated >security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
 
 ## How to run the app
 1. Either fork or download the app and open the folder in Microsoft Visual Studio preferrably.
