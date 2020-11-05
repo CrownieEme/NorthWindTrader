@@ -199,8 +199,9 @@
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
-    <Content Include="App_Data\northwnd.ldf">
-      <DependentUpon>northwnd.mdf</DependentUpon>
+    <Content Include="App_Data\aspnet-NorhtWindTraders-20150210112121.mdf" />
+    <Content Include="App_Data\aspnet-NorhtWindTraders-20150210112121_log.ldf">
+      <DependentUpon>aspnet-NorhtWindTraders-20150210112121.mdf</DependentUpon>
     </Content>
     <Content Include="App_Data\northwnd.mdf" />
     <Content Include="App_Data\northwnd_log.ldf">
